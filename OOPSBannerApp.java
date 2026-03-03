@@ -1,5 +1,6 @@
 public class OOPSBannerApp {
 
+
     static String[] o = new String[7];
     static String[] p = new String[7];
     static String[] s = new String[7];
@@ -45,3 +46,16 @@ public class OOPSBannerApp {
         }
     }
 }
+
+    public static void main(String[] args) {
+
+        String[] lines = {
+            " ***     ***    *****    ***** ",
+            "*   *   *   *   *    *   *     ",
+            "*   *   *   *   *    *   *     ",
+            "*   *   *   *   *****     ***  ",
+            "*   *   *   *   *            * ",
+            "*   *   *   *   *            * ",
+            " ***     ***    *        ***** "
+        };
+
